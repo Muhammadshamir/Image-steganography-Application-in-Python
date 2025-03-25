@@ -1,4 +1,4 @@
-README for Image Steganography Tool
+
 🔹 Image Steganography Tool
 A simple Image Steganography project that allows users to hide a secret image inside a cover image using Least Significant Bit (LSB) encoding.
 
